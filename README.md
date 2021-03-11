@@ -4,10 +4,11 @@
 
 
 
- **JavaScript 
+<ul>JavaScript 
    HTML 
    CSS
-   React**
+   React
+   <ul>
 
  How to reach me **clarxyg@gmail.com** 
 
