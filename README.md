@@ -5,9 +5,9 @@
 
  **JavaScript, HTML, CSS, REACT**
 
-- 📫 How to reach me **clarxyg@gmail.com**
+ How to reach me **clarxyg@gmail.com**
 
- ⚡ 
+
 
 <p align="center">
 <a href="https://twitter.com/clarxyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claragarcia" height="20" width="20" /></a>
