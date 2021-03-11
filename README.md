@@ -4,10 +4,10 @@
 
 
 
-**JavaScript, HTML, CSS e React**
+   **JavaScript, HTML, CSS e React**
    
 
- How to reach me **clarxyg@gmail.com** 
+   How to reach me **clarxyg@gmail.com** 
 
 
 
