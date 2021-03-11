@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/claragarcia/claragarcia/master/image/computer-illustration.png" width="350"/>
 <h1 align="center">Hi dear!</h1>
 <h3 align="center">Welcome to my profile</h3>
 
