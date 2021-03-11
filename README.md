@@ -1,11 +1,11 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi dear</h1>
 <h3 align="center">A Web Developer focused on helping people</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+
 
 
  **JavaScript, HTML, CSS, REACT**
 
- How to reach me **clarxyg@gmail.com**
+ How to reach me **clarxyg@gmail.com** 
 
 
 
