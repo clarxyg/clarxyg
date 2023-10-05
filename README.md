@@ -4,7 +4,7 @@
 
 
 
-   **JavaScript, HTML, CSS e React**
+   **Fullstack Developer - React, React Native e NodeJS**
    
 
    How to reach me **clarxyg@gmail.com** 
