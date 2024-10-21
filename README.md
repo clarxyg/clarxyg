@@ -1,19 +1,9 @@
-<img align="right" src="https://github.com/clarxyg/clarxyg/blob/main/computer-illustration.png" width="350"/>
-<h1 align="center">Hi dear!</h1>
-<h3 align="center">Welcome to my profile</h3>
-
-
-
-   **Fullstack Developer - React, React Native e NodeJS**
-   
-
-   How to reach me **clarxyg@gmail.com** 
-
-
-
-<p align="center">
-<a href="https://twitter.com/clarxyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claragarcia" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claragarcia" height="20" width="20" /></a>
-<a href="https://fb.com/manerissima" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="claragarcia" height="20" width="20" /></a>
-<a href="https://instagram.com/clarxyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claragarcia" height="20" width="20" /></a>
-</p>
+## I'm solver focused in software 
+###  Tooling 
+- NextJS, NodeJS, React Native, Typescript (always)
+- Jest / Cypress
+- AWS / GCP
+ 
+ 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarxyg&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarxyg&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
