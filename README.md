@@ -1,4 +1,4 @@
-## I'm solver focused in software 
+## I'm a solver focused on software 
 ###  Tooling 
 - NextJS, NodeJS, React Native, Typescript (always)
 - Jest / Cypress
